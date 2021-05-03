@@ -2,7 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
-This repo contains pseudocode for starvation free reader writer problem implemented for assignment of **CSN-232: Operating Systems**
+This repo contains pseudocode for starvation free readers writers problem implemented for assignment of **CSN-232: Operating Systems** and is submitted by **Hardik Thami, 19114035**
 
 ## Documentation
 
