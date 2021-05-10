@@ -4,7 +4,7 @@ semaphore orderMutex;         // Initialized to 1
 
 unsigned int readers = 0;     // Number of readers accessing the resource
 
-void reader()
+void reader() {
 
   Wait(orderMutex);           // Remember our order of arrival
 
