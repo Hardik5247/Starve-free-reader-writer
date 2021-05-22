@@ -20,4 +20,4 @@ The third reader writer problem involves giving neither priority to readers nor 
 ## Use
 
 ### Linux or C solution
-`g++ StarveFreeReaderWriter.c -lpthread -o algo_output && ./algo_output && rm algo_output`
+`gcc StarveFreeReaderWriter.c -lpthread -lm -o algo_output && ./algo_output && rm algo_output`
